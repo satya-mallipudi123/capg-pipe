@@ -4,7 +4,7 @@ node{
 		print 'hello, world!'
 		
 		if(i==0){
-			git "https://github.com/sowmyad16/capg-pipe.git"
+			git "https://github.com/HK-1104/capg-pipe.git"
 			echo "Running on Stage#0"
 		}
 		else{
